@@ -80,6 +80,8 @@ A ARIA promove a **Desmaterialização** e a **Eficiência Energética:**
 **- Tadeu Silva de Queiroz**  
 **- Vinicio Rocha dos Reis**  
 
+![WhatsApp Image 2026-04-01 at 21 43 13](https://github.com/user-attachments/assets/77302566-d392-4ea1-bf14-fd2128c24b03)
+
 🏢 Realização e Apoio:
 Este projeto foi fruto do **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
