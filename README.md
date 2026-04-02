@@ -9,9 +9,20 @@ A **ARIA** (Análise Regulatória com Inteligência Artificial) é uma plataform
 
 Desenvolvida durante o **Hackathon Talento Tech 3.0**, o projeto transforma bases de dados estáticas (PDFs de editais, dossiês e ensaios clínicos) em um "cérebro corporativo" vivo, consultável em linguagem natural e baseado em evidências.
 
+Persona:
+
+**"Hoje, a indústria farmacêutica precisa de automação na gestão de informações técnicas e regulatórias quando o alto volume de documentos complexos gera riscos de inconformidade e lentidão na tomada de decisão."** 
+
+**Exemplo:**   
+
+**Antes:** Renata gasta **15 horas por semana** lendo manualmente atualizações da Anvisa e novos ensaios clínicos de outras fontes para garantir que a empresa não sofra sanções.
+
+**Depois (com ARIA):** **Todos os dias as 6 da manhã** a ARIA faz busca por novos documentos em sites oficiais (cadastrados na implementação).  
+Renata, quando chega ao trabalho as 8 da manhã, recebe um alerta com um resumo executivo pronto, com o que mudou e o impacto nos produtos da empresa.
+
 
 🚀**Diferenciais da Solução**   
-Diferente de ferramentas de busca comuns, o ARIA utiliza:  
+Diferente de ferramentas de busca comuns, a **ARIA** utiliza:  
 
 **1. RAG (Retrieval-Augmented Generation)**: Garante que as respostas da IA sejam baseadas estritamente nos documentos carregados, eliminando "alucinações" e fornecendo citações de fonte (página/parágrafo).
 
@@ -70,6 +81,14 @@ A ARIA promove a **Desmaterialização** e a **Eficiência Energética:**
 
   <img width="654" height="186" alt="impacto ambiental image" src="https://github.com/user-attachments/assets/3f7f346a-9f6b-4031-84bb-86f2c1e051e7" />
 
+🆙**Próximos Passos e Melhorias Futuras**  
+**Roadmap**
+
+**Semana 1:** Segurança e Gestão de identidade - Implementação do **Amazon Cognito**
+
+**Semana 2:** FinOps e Prevenção de Custos – Cache Semântico (uma opção é o **DynamoDB**)
+
+**Avaliação contínua:** Avaliação de Qualidade da IA - Comparar a taxa de precisão x custo por token gerado
 
 
 🤝**Projeto vencedor do segundo lugar desenvolvido por:**  
